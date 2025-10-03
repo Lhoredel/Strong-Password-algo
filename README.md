@@ -1,1 +1,2 @@
 # Strong-Password-algo
+This code solves the Strong Password problem by identifying the minimum number of characters needed to meet password strength requirements. It checks for missing character types, such as digits, lowercase letters, uppercase letters, and special characters. It also ensures the minimum length. The code returns the greater value between the number of missing types or the length deficit.
